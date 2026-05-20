@@ -1,5 +1,5 @@
 # odin-recipes
-Build my first practice project. A simple recipe website.
+Build my first practice project. A basic recipe website.
 
 Garnered experience on how to combine several different HTML elements to create a simple HTML website.
 
